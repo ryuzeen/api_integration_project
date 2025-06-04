@@ -87,5 +87,3 @@ Este projeto nasceu da proposta de integrar conhecimentos das disciplinas do 3º
 - **Responsividade frente a problemas reais da sociedade**
 
 A escolha do tema — **queda de energia** — remete a problemas cada vez mais frequentes no Brasil, e demonstra como a tecnologia pode oferecer respostas práticas, eficientes e inteligentes a esse tipo de desafio.
-
----
